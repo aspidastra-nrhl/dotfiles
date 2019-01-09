@@ -80,8 +80,6 @@ eval "$(hub alias -s)"
 #export VIRTUALENVWRAPPER_PYTHON=/usr/local/bin/python3
 #export VIRTUALENVWRAPPER_VIRTUALENV=/usr/local/bin/virtualenv
 
-export HOMEBREW_GITHUB_API_TOKEN="1829a276e0a02c1d2c2b31c490f8710de02f0976"
-
 #source /usr/local/bin/virtualenvwrapper.sh
 
 source /usr/local/share/chruby/chruby.sh
